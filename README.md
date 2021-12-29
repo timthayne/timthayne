@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+# Welcome to my GitHub Profile
+## My name is Tim Thayne
+## I am a Professor at BYU-Idaho 
+## I teach Web and Computer Programming classes
 <!--
 **timthayne/timthayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
